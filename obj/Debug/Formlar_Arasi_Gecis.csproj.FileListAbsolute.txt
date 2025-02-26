@@ -1,0 +1,12 @@
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe.config
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.exe
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\Formlar_Arasi_Gecis.pdb
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Form1.resources
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Form2.resources
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.exe
+C:\Users\USER01\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\Formlar_Arasi_Gecis.pdb
